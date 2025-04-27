@@ -8,7 +8,6 @@
 <body>
 
 <?php
-
 print "Hola mundo php con print <br>"; //Nos permite poner un solo mensaje
 echo "Hola mundo PHP con echo", "Varios mensajes"; // Nos permite poner varios mensajes
 ?>
